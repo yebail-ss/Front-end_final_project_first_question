@@ -1,0 +1,10 @@
+.biaoti{
+color:brown;
+size: 20px;
+font-weight: bold;
+
+}
+page{
+background-color: #fffbe5;
+
+}

@@ -1,0 +1,8 @@
+
+<view class="biaoti">标题: {{item.title}}</view>
+<view class="good-item" >
+  <image      class="good-image" src="{{item.img}}"     mode="widthFix"   ></image>
+  <view class="good-detail">
+    <view  class="content">内容： {{item.description}}  </view>
+     </view>
+</view>

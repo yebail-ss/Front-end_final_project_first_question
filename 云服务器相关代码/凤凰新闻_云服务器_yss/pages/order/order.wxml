@@ -1,0 +1,8 @@
+<view  wx:for="{{datalist}}"  wx:key="item">
+  <view class="item" >
+  <text >id:{{item.id}}</text>
+  <text >商品名:{{item.name}}</text>
+  <text >价格:{{item.price}}</text>
+  </view>
+
+</view>

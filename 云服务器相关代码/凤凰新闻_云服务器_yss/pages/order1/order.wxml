@@ -1,0 +1,9 @@
+<view>订单id：{{order.id}}</view>
+<view> 商品名：{{order.name}}</view>
+<view>订单金额：{{order.price}}</view>
+<button type="primary" class="button" bindtap="pay">
+  支付
+</button>
+<button type="warn" class="button" bindtap="close">
+  取消订单
+</button>
